@@ -17,3 +17,11 @@ body {
 .navbar-brand::after {
   content: " </>";
 }
+
+.content {
+  margin-top: 76px;
+}
+
+.transparent{
+  background:rgba(233,236,239,0.1);
+}
