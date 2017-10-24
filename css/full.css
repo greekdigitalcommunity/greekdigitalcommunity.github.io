@@ -10,10 +10,10 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    font-family: "Ubuntu"
-    color: "fff"
+    font-family: "Ubuntu";
+    color: #ffffff;
 }
 
 .navbar-brand::after {
-  content: " </>"
+  content: " </>";
 }
