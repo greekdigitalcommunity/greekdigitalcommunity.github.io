@@ -1,0 +1,33 @@
+/* TEAM */
+
+role: developer
+developer: Tassos Koutlas
+github: https://github.com/tassoskoutlas
+location: Brighton, UK
+
+role: developer
+name: Stelios Moschos
+github: https://github.com/smosgr
+location: Brighton, UK
+
+role: developer
+name: Thanos Nokas
+github: https://github.com/matrixlord
+location: Athens, Greece
+
+/* THANKS */
+
+Name: Dimitris Sarmis
+Name: Leon Koundouras
+Name: Basilis Pavlou
+Name: Giannis Stergiou
+Name: Giannis K
+Name: Konstantinos Pavlou (Gus)
+Name: Steve Vardalos
+Name: Vasilis Vouvonikos
+
+/* SITE */
+
+Last updated: 25 October 2017
+Language: Greek
+Doctype: HTML5
