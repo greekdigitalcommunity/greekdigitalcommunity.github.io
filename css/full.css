@@ -12,6 +12,8 @@ body {
     -o-background-size: cover;
     font-family: "Ubuntu";
     color: #ffffff;
+    min-height:100%;
+    height:auto;
 }
 
 .navbar-brand::after {
