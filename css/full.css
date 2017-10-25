@@ -5,9 +5,31 @@
  */
 
 body {
-    background: url('../psagmeno.jpg') no-repeat center center fixed;
+    background: url('../assets/bg.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    font-family: "Ubuntu";
+    color: #ffffff;
+}
+
+.navbar-brand::after {
+  content: " </>";
+}
+
+.content {
+  margin-top: 76px;
+}
+
+.transparent{
+  background: rgba(255,255,255,0.2);
+}
+
+a.link {
+  color: rgba(255,255,255,0.5)
+}
+
+a:hover.link {
+  color: rgba(255,255,255,0.75)
 }
