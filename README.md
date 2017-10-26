@@ -13,12 +13,14 @@ On your local machine clone the base repo:
 ```bash
 git clone git@github.com:greekdigitalcommunity/greekdigitalcommunity.github.io.git
 ```
-Create a branch:
+
+If you are contributing on an issue create a branch from develop like so:
 ```bash
-git checkout feature--name_of_the_feature_you_are_implementing
+git checkout -b issue#XX--name_of_the_issue_you_are_implementing develop
 ```
 
-Use that branch to implement the feature you are working on.
+where issue-XX is the issue and number (e.g. issue-7). Use that branch to
+implement the feature you are working on.
 
 ## Contribute
 
