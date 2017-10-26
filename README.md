@@ -24,7 +24,7 @@ implement the feature you are working on.
 
 ## Contribute
 
-Once done, please [create a pull request](https://help.github.com/articles/creating-a-pull-request/).
+Once done, push your branch to the reposiotyr and [create a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 ## Need help?
 
