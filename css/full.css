@@ -10,7 +10,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    font-family: "Ubuntu";
+    font-family: "Ubuntu", "Helvetica Neue";
     color: #ffffff;
     min-height:100%;
     height:auto;
